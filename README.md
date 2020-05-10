@@ -5,8 +5,8 @@ Many fundamentals and advanced Python topics covered and missions accomplished i
 
 Topics:
 
-Create your own Python scripts to automate tasks.
-Read CSV Files with Python.
+# Create your own Python scripts to automate tasks.
+# Read CSV Files with Python.
 Be able to work with PDF files in Python.
 Manipulate images with Python.
 Learn how to create functions with Python.
